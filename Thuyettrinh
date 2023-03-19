@@ -1,0 +1,16 @@
+# expert-space-tribble
+void Selection _ Sort(int a[l, int n)f
+int min;//vi trí phân tùr nho nhat trong däy hien hanh
+for(int i=0; i<n-1; i++)/
+min=i
+for(int j=i+l; j<n; j+)l
+if (al] < ammin])t
+min = j;/ghi nhân vi trí phân tů nho nhat
+swapa[min). alil):
+yoid main()
+int a[5] = (8, 4, 1, 6, 5];
+Selestion. Sort(a, 5);
+cout<<"Mang sau khi sap xep:"<<endl;
+fox(int i=0;i<5;i++)/
+cout<<alik<"
+system("pause.
